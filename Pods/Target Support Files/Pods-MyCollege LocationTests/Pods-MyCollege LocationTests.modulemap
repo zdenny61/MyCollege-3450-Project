@@ -1,0 +1,6 @@
+framework module Pods_MyCollege_LocationTests {
+  umbrella header "Pods-MyCollege LocationTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

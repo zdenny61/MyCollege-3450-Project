@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "LoadPins.load(passedPinArray:):PinLoader.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "LoadPins.shared.pins">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrayAllUniversitys">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.selectUniversity():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arrayAllUniversitys">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.getSelectedPinsImage(passedPinIndex:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pins">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.mapView(_:didSelect:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PinViewViewController.viewDidLoad():PinViewViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "PinURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
